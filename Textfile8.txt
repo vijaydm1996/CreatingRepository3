@@ -1,0 +1,7 @@
+Created repository in local git
+created .git using init
+tired to connect remote repository using git remote add origin https://github.com/vijaydm1996/CreatingRepository3.git, its not worked
+changed the branch name to main, no luch
+tried to create Textfile7 - add - commit - push getting error
+tried again to connect remote repository, no luck
+created repository in remote github "CreatingRepository3"  and connect - push, its worked
