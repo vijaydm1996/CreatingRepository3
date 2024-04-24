@@ -1,0 +1,1 @@
+Creating Textfile7.txt to check when enter the cd repository name with lower case, the file is created or not, its created
